@@ -19,9 +19,8 @@ convertBud is a command-line file converter based on an FFmpeg build
 from https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip. 
 It's made to be simple and easy to use, like an FFmpeg "lite" app.
 
-It is completely free and open source, and comes with a copy of 
-FFmpeg essentials. Feel free to do what you'd like to convertBud
-under the GNU license.
+It is completely free and open source. Feel free to do what you'd 
+like to convertBud under the GNU license.
 
 > What can convertBud do?
 
