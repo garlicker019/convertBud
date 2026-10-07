@@ -42,11 +42,11 @@ are never overwritten.
 
 > What are the prerequisites around convertBud?
 
-- A Windows operating system, best bet is Win10 onwards. See FFmpeg's
-requirements too.
-- The included FFmpeg Essentials build.
+- Win10 onwards. See FFmpeg's requirements too.
 - The FFmpeg executable (convertBud\ffmpeg\bin\ffmpeg.exe is the
-expected directory).
+expected directory) 
+
+Link to FFmpeg build: https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip
 
 That's it, as far as I'm aware.
 
